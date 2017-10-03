@@ -64,7 +64,7 @@
     "rimraf": "^2.6.1",
     "semver": "^5.1.0",
     "tildify": "^1.2.0",
-    "url-loader": "^0.5.7",
+    "url-loader": "^0.6.0",
     "user-home": "^2.0.0",
     "validate-npm-package-name": "^2.2.2",
     "vue": "^2.3.2",
