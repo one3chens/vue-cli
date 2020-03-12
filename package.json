@@ -34,7 +34,7 @@
     "async": "^2.0.0-rc.2",
     "autoprefixer": "^6.6.1",
     "babel-core": "^6.21.0",
-    "babel-loader": "^6.2.10",
+    "babel-loader": "^7.1.0",
     "babel-preset-vue-app": "^1.2.1",
     "chalk": "^1.1.1",
     "commander": "^2.9.0",
